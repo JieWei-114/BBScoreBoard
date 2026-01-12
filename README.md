@@ -33,5 +33,5 @@ B&B ScoreBoard is an Android application to track and review scores for basketba
 
 ## App screenshot
 
-![App screenshot](assets/screenshot1.png) &nbsp;&nbsp;&nbsp; ![App screenshot](assets/screenshot4.png)
+![App screenshot](assets/screenshot1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![App screenshot](assets/screenshot4.png)
 ![App screenshot](assets/screenshot2.png) ![App screenshot](assets/screenshot3.png)
