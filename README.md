@@ -30,3 +30,7 @@ B&B ScoreBoard is an Android application to track and review scores for basketba
 
 - Several activities are declared in the manifest (e.g. `MainActivity`, `Basketball`, `Badminton`, `History`). Some activities use landscape orientation.
 - The project uses AndroidX, Material components, and ConstraintLayout.
+
+## App screenshot
+
+(assets/screenshot1.png)
