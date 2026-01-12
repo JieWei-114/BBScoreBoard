@@ -12,7 +12,6 @@ B&B ScoreBoard is an Android application to track and review scores for basketba
 - `build.gradle` (root) — Top-level Gradle configuration and plugin versions
 - `settings.gradle` — Project name and modules
 
-
 ## Prerequisites
 
 - JDK 11 or compatible (Java 8 language level is used in the project)
